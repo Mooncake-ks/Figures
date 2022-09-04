@@ -90,6 +90,8 @@ int main()
 	Ellipse e(2, 4);
 	a.scale(2);
 	show(a);
+	t.scale(2);
+	show(t);
     return 0;
 }
 
